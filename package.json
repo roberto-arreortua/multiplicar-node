@@ -1,0 +1,17 @@
+{
+    "name": "03-basenode",
+    "version": "2.0.0",
+    "description": "Esta es una aplicacion de linea de comandos ",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Roberto Arreortúa",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^13.2.2"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.10"
+    }
+}
